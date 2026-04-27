@@ -131,7 +131,7 @@ int main()
     printf("4- Pontos Turísticos\n");
     printf("5- Densidade Populacional\n");
     printf("6- PIB Per Capta\n");
-    printf("7- Super Poder");
+    printf("7- Super Poder\n");
     scanf("%d", &menuComparacao);
 
     switch (menuComparacao)
